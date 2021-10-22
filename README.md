@@ -6,4 +6,4 @@ Just run the script.
 
 Example output:
 
-![Example output](https://raw.githubusercontent.com/tuananhdao/Matlab-zoomed-in-plots-in-plot/main/example_plot.png)
+![Example output](https://raw.githubusercontent.com/tuananhdao/Matlab-zoomed-in-plots-in-plot/main/example_plot.png?raw=true)
